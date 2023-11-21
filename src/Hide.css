@@ -1,0 +1,9 @@
+/* Hide.css */
+.blueButton {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
